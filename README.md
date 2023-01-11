@@ -1,2 +1,2 @@
-# astrokotki
-## https://miroslava7204.github.io/astrokotki/
+
+## https://miroslava7204.github.io/helpy/
